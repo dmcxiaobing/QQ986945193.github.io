@@ -1,4 +1,10 @@
-## DavidNotes ##
+---
+title: 关于github项目demo源代码 #文章页面上的显示名称，一般是中文
+date: 2017-07-26 15:30:16 #文章生成时间，一般不改，当然也可以任意修改
+categories: 个人笔记 #分类
+tags: [Java,Android,Linux,服务器杂谈,Windows知识] #文章标签，可空，多标签请用格式，注意:后面有个空格
+description: 这是我自己在github传过的项目以及记录自己学习的demo地址导航。其中主要是java知识以及Android的知识点以及示例。
+---
 
 这是我自己在github传过的项目以及记录自己学习的demo地址导航。
 
@@ -7,9 +13,8 @@
 ## ##
 
 - **Android相关的资料**  
-
-
-	[【Android利器】 开源项目。包含常用的android开发功能及知识点](https://github.com/QQ986945193/DavidAndroidProjectTools)
+    
+    [【Android利器】 开源项目。包含常用的android开发功能及知识点](https://github.com/QQ986945193/DavidAndroidProjectTools)
 	
 	[【DAndroidUtils】 开源项目。android开发中常用功能封装的library](https://github.com/QQ986945193/DAndroidUtils)
 	
@@ -42,7 +47,6 @@
 	[Umeng统计使用demo，此demo只包括统计app下载量，启动次数，以及渠道安装量。 ](https://github.com/QQ986945193/DavidUmengStatistics)
 
 - **Java相关的资料**  
-
 
 	[自己学习JavaWeb的知识点以及代码学习记录。](https://github.com/QQ986945193/JavaWebEduProject)
 
