@@ -66,7 +66,4 @@ description: 这是我自己在github传过的项目以及记录自己学习的d
 内容会抽时间不断更新中，欢迎star。fork。
 
 当然如果我的项目帮到了你，欢迎进行打赏，请作者喝杯茶。谢谢支持。
-
-![支付宝](http://img.blog.csdn.net/20170623085838863?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjEzNzY5ODU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-![微信](http://img.blog.csdn.net/20170623085900598?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjEzNzY5ODU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+、
