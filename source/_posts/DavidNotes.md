@@ -1,7 +1,7 @@
 ---
 title: 关于github项目demo源代码 #文章页面上的显示名称，一般是中文
 date: 2017-07-26 15:30:16 #文章生成时间，一般不改，当然也可以任意修改
-categories: 个人笔记 #分类
+categories: Notes #分类
 tags: [Java,Android,Linux,服务器杂谈,Windows知识] #文章标签，可空，多标签请用格式，注意:后面有个空格
 description: 这是我自己在github传过的项目以及记录自己学习的demo地址导航。其中主要是java知识以及Android的知识点以及示例。
 ---
@@ -9,8 +9,6 @@ description: 这是我自己在github传过的项目以及记录自己学习的d
 这是我自己在github传过的项目以及记录自己学习的demo地址导航。
 
 其中主要是java知识以及Android的知识点以及示例。
-
-## ##
 
 - **Android相关的资料**  
     
@@ -52,11 +50,7 @@ description: 这是我自己在github传过的项目以及记录自己学习的d
 
 	[java开发中总结的常用SE基本知识点以及功能点详解。](https://github.com/QQ986945193/JavaSeTools)
 	
-	[一个自己学习SSH框架的知识点总结以及代码记录。](https://github.com/QQ986945193/SSHTools)
-
-
-
-## ##
+	[一个自己学习SSH框架的知识点总结以及代码记录。](https://github.com/QQ986945193/SSHTools) 
 
 
 [作者：程序员小冰](http://blog.csdn.net/qq_21376985)
