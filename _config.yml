@@ -55,6 +55,11 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+        Notes: Notes
+        Java: Java
+        Android: Android
+        Linux: Linux
+        开发工具: 开发工具
 tag_map:
 
 # Date / Time format
