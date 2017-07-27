@@ -33,6 +33,11 @@ rss: /atom.xml
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
 root: 
 
+auto_excerpt:
+  enable: true
+  length: 15（可自行设置）
+
+
 # Content
 
 # 文章太长，截断按钮文字
@@ -115,11 +120,11 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: https://github.com/QQ986945193
-  友情链接2: https://github.com/QQ986945193
-  友情链接3: https://github.com/QQ986945193
-  友情链接4: https://github.com/QQ986945193
-  友情链接5: https://github.com/QQ986945193
-  友情链接6: https://github.com/QQ986945193
+  Github: https://github.com/QQ986945193
+  新浪微博: http://weibo.com/mcxiaobing
+  CSDN: http://blog.csdn.net/qq_21376985
+  码云: http://git.oschina.net/MCXIAOBING
+  # 友情链接5: https://github.com/QQ986945193
+ #  友情链接6: https://github.com/QQ986945193
 
-aboutme: 欢迎光临程序员<br><br>小冰博客站<br>谢谢大家的支持
+aboutme: 欢迎光临<br><br>程序员小冰博客站<br>谢谢大家的支持

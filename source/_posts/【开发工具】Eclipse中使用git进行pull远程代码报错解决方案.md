@@ -5,6 +5,9 @@ categories: 开发工具 #分类
 tags: [Java,Android,git,github,Windows知识,eclipse,myeclipse] #文章标签，可空，多标签请用格式，注意:后面有个空格
 description: Eclipse中使用git进行pull远程代码，报错The current branch is not configured for pull No value for key
 ---
+Eclipse中使用git进行pull远程代码，报错The current branch is not configured for pull No value for key
+
+<!--more-->
 
 当使用eclipse或者MyEclipse进行pull远程代码的时候，或者github的代码的时候报如下错误代码；
 

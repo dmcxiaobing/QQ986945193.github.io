@@ -5,6 +5,8 @@ categories: Linux #分类
 tags: [Linux] #文章标签，可空，多标签请用格式，注意:后面有个空格
 description: Linux利用远程SSH连接SecureCRT中文出现乱码解决办法
 ---
+Linux利用远程SSH连接SecureCRT中文出现乱码解决办法
+<!--more-->
 
 1. 修改远程linux机器的配置
  
