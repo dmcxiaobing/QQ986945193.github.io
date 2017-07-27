@@ -2,7 +2,7 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  随笔: /tags/Java/
 
 # SubNav
 subnav:
@@ -10,9 +10,9 @@ subnav:
   weibo: "http://weibo.com/mcxiaobing"
   #rss: "#"
   zhihu: "https://github.com/QQ986945193"
-  qq: "986945193"
-  weixin: "程序员小冰"
-  #jianshu: "#"
+  #qq: "986945193"
+  #weixin: "程序员小冰"
+  jianshu: "http://www.jianshu.com/users/4e2015c5a972/timeline"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
@@ -49,7 +49,7 @@ reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: http://img.blog.csdn.net/20170623085838863?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjEzNzY5ODU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast
 # 微信二维码图片地址
-weixin: http://img.blog.csdn.net/20170623085900598?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjEzNzY5ODU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast
+weixin: http://otq6q76t6.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170727091559.jpg
 
 # 目录
 # 目录设定：0-不显示目录； 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
